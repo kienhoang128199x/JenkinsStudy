@@ -4,7 +4,7 @@ pipeline{
         stage('clone from github'){
             steps{
                 git 'https://github.com/kienhoang128199x/JenkinsStudy.git'
-                echo 'hello kienhoang 12819'
+                echo 'hello kienhoang 12asdf819'
             }
         }
     }
